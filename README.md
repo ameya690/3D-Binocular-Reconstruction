@@ -7,11 +7,6 @@ We worked on the Middlebury Stereo dataset for the 2D images, and used the Cloud
 
 ![image_left](https://github.com/youngseok-seo/stereo-vision/blob/master/data/images/im0.png)
 
-### Pre-processing
-
-![raw_plot](https://github.com/youngseok-seo/stereo-vision/blob/master/data/output/250p_SAD_disp_raw_MPL.png)
-
-### Post-processing
 
 ![gif](https://github.com/youngseok-seo/stereo-vision/blob/master/3D.gif)
 
