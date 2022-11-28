@@ -1,4 +1,4 @@
-# 3D Scene Unnderstanding Using Binocular Images
+# 3D Scene Understanding Using Binocular Images
 
 This is part of my 7th semester major project with Prof Jyoti Madake. The project explores reconstructing a 3D depth image from two 2D with known caliberations. 
 For better understanding, kindly refer the paper written for the same: '3D Scene Understanding using Binocular Images.pdf'
